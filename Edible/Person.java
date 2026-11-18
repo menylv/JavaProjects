@@ -1,7 +1,10 @@
+package Edible;
+
 
 public class Person {
 
     private String name;
+    @SuppressWarnings("unused")
     private Edible eat;
 
     public Person(String name) {

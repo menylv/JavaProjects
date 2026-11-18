@@ -1,3 +1,5 @@
+package Measurable;
+
 import java.text.DecimalFormat;
  
 // a) Interface Measurable

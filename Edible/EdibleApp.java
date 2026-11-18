@@ -1,3 +1,5 @@
+package Edible;
+
 
 interface Edible {
     String howToEat();
